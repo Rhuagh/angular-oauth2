@@ -1,0 +1,9 @@
+{
+  "name": "angular-oauth2",
+  "version": "0.1.0",
+  "main": "./angular-oauth2.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.4.7"
+  }
+}
